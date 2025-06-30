@@ -9,7 +9,7 @@ import { ChevronDown } from 'lucide-react';
 import PurchaseQueue from './PurchaseQueue';
 import FOMONotification from './FOMONotification';
 import Footer from './Footer';
-import CountdownTimer from './CountdownTimer';
+import CountdownTimer from './CountDownTimer';
 import PriceDropAnimation from './PriceDropAnimation';  
 
 const LiquidiaHomepage = () => {
