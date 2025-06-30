@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Zap, Eye, TrendingDown, Heart, ArrowRight, Sparkles } from 'lucide-react';
-import CountdownTimer from './CountdownTimer';
+import CountdownTimer from './CountDownTimer';
 import PurchaseQueue from './PurchaseQueue';
 const FlashDealCard = ({ deal, timeLeft, isChanging }) => {
   const [currentDeal, setCurrentDeal] = useState(deal);
